@@ -38,7 +38,9 @@
 
 ## 📸 Скриншоты
 
-_попозже_
+<img width="5176" height="10624" alt="iPhone 15 Pro Black Titanium" src="https://github.com/user-attachments/assets/4887c42f-3d13-4dcb-85f1-6c8422de4247" />
+
+<img width="5176" height="10624" alt="iPhone 15 Pro Black Titanium 2" src="https://github.com/user-attachments/assets/94fbe419-bb00-427f-a21a-c2074a2db863" />
 
 ## 👀 Для кого
 

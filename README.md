@@ -40,6 +40,8 @@
 
 ### Главная страница
 
+<img width="1294" height="2656" alt="iPhone 15 Pro Black Titanium" src="https://github.com/user-attachments/assets/8c6117e1-baa1-4496-89de-131a404d98d3" />
+
 ---
 
 ### Редактирование объявления

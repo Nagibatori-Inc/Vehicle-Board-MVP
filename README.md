@@ -4,7 +4,7 @@
 
 ## 🚀 Что это вообще такое
 
-Одностраничное веб-приложение (Nuxt 3 + Django REST), разрабатываемое под заказ — но заказчик слился.  
+Одностраничное веб-приложение (Nuxt 3 + Django REST), разрабатываемое под заказ — но заказчик слился.
 Тем не менее, MVP готов, протестирован и вполне может стать основой для классифайда, аренды, биржи услуг или b2b-сервиса.
 
 ## 🔧 Реализовано в MVP:
@@ -32,18 +32,26 @@
 
 ## 🔌 Технологии
 
-- **Frontend**: Nuxt 3, Vue 3, Tailwind CSS, Pinia, Composition API  
-- **Backend**: Django, Django REST Framework, JWT, PostgreSQL  
-- **DevOps**: Docker, GitHub Actions, .env, nginx-ready конфигурации  
+- **Frontend**: Nuxt 3, Vue 3, Tailwind CSS, Pinia, Composition API
+- **Backend**: Django, Django REST Framework, JWT, PostgreSQL
+- **DevOps**: Docker, GitHub Actions, .env, nginx-ready конфигурации
 
 ## 📸 Скриншоты
 
-**Главгая страница**
+### Главная страница
+
+---
+
+### Редактирование объявления
+
 <img width="526" height="1080" alt="iPhone 15 Pro Black Titanium 4" src="https://github.com/user-attachments/assets/b69e0f26-5730-4c60-978c-69852c6206eb" />
 
-| **Регистрация** |
-|:-------------------------:|:-------------------------:|:-------------------------:|
+---
+
+### Регистрация
+
 |<img width="526" height="1080" alt="iPhone 15 Pro Black Titanium 6" src="https://github.com/user-attachments/assets/49b9d19f-3514-4a95-9c77-80cf41565838" /> |  <img width="526" height="1080" alt="iPhone 15 Pro Black Titanium 7" src="https://github.com/user-attachments/assets/45a11576-adb4-4399-9c0a-db8f37015ddf" />|<img width="526" height="1080" alt="iPhone 15 Pro Black Titanium 8" src="https://github.com/user-attachments/assets/1c1c8b8d-ba82-401f-99d6-ff044876e6aa" />|
+|:-------------------------:|:-------------------------:|:-------------------------:|
 
 ## 👀 Для кого
 
@@ -53,7 +61,7 @@
 
 ## 💬 Контакты
 
-Пишите в Telegram: [@хз_кто_пока](https://t.me/your_nickname_here)  
+Пишите в Telegram: [@хз_кто_пока](https://t.me/your_nickname_here)
 Покажу демо, скину билд или дам доступ к Git.
 
 ---

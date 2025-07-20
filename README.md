@@ -38,12 +38,10 @@
 
 ## 📸 Скриншоты
 
-<p float="left">
-  <img width="526" height="1080" alt="iPhone 15 Pro Black Titanium 4" src="https://github.com/user-attachments/assets/b69e0f26-5730-4c60-978c-69852c6206eb" />
-  <img width="526" height="1080" alt="iPhone 15 Pro Black Titanium 6" src="https://github.com/user-attachments/assets/49b9d19f-3514-4a95-9c77-80cf41565838" />
-</p>
-<img width="526" height="1080" alt="iPhone 15 Pro Black Titanium 7" src="https://github.com/user-attachments/assets/45a11576-adb4-4399-9c0a-db8f37015ddf" />
-<img width="526" height="1080" alt="iPhone 15 Pro Black Titanium 8" src="https://github.com/user-attachments/assets/1c1c8b8d-ba82-401f-99d6-ff044876e6aa" />
+<img width="526" height="1080" alt="iPhone 15 Pro Black Titanium 4" src="https://github.com/user-attachments/assets/b69e0f26-5730-4c60-978c-69852c6206eb" />
+|:---:|:---:|:---:|
+|<img width="526" height="1080" alt="iPhone 15 Pro Black Titanium 6" src="https://github.com/user-attachments/assets/49b9d19f-3514-4a95-9c77-80cf41565838" />|<img width="526" height="1080" alt="iPhone 15 Pro Black Titanium 7" src="https://github.com/user-attachments/assets/45a11576-adb4-4399-9c0a-db8f37015ddf" />|<img width="526" height="1080" alt="iPhone 15 Pro Black Titanium 8" src="https://github.com/user-attachments/assets/1c1c8b8d-ba82-401f-99d6-ff044876e6aa" />|
+|:---:|:---:|:---:|
 
 ## 👀 Для кого
 
